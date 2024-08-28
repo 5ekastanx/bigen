@@ -2,7 +2,7 @@
 
 This is a very good project written in Node.js. It is designed to solve many problems and simplify various processes.
 
-## Установка
+## Установка 
 
 To install the project, follow these steps:
 
