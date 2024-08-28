@@ -1,29 +1,29 @@
 # Bigen
 
-Это очень хороший проект, написанный на Node.js. Он предназначен для решения множества задач и упрощения различных процессов.
+This is a very good project written in Node.js. It is designed to solve many problems and simplify various processes.
 
 ## Установка
 
-Для установки проекта выполните следующие шаги:
+To install the project, follow these steps:
 
-1. Клонируйте репозиторий:
+1. Clone the repository:
     ```bash
     git clone https://github.com/5ekastanx/bigen.git
     ```
 
-2. Перейдите в директорию проекта:
+2. Go to the project directory:
     ```bash
-    cd project-name
+    cd bigen
     ```
 
-3. Установите зависимости:
+3. Install dependencies:
     ```bash
     npm install
     ```
 
-## Использование
+## Usage
 
-Для запуска проекта используйте следующую команду:
+To run the project use the following command:
 
 ```bash
 npm start
